@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="psd">123456</string>
+<boolean name="isSavedPsd" value="false" />
+<string name="name">zhangsan</string>
+<boolean name="isAutoLogin" value="false" />
+</map>
